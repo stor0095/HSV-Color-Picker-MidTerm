@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c6d86e1d89ddb6f9c4351787acf6575d594360dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_356fb8533340952c77ad275e51dc6aa22d169eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_1c077e58c051fc8ab63573f0c668dae41d58b620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_628d9dd9677a2f1cb6905321015b892e8b069412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e25a6e37ef40ea8a8ee1a5eb940009af70051a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2424d635245a7f082129cc5140d833f6ad21d9c4">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5ed8ea7f4cfe858b1c32d8bcba15375fae2fe5c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_81a1698a055991c36a6a70a0a4e66f03d5a116bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0321ece60ff6f849d11640217c6947765121991a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_532947db0e4d8bd2a6cf2323c2e0c9b8307c4948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ba3f081e95b25ff858435fdde7c648864300ec70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_df218c318d183d39e4acb4411b192f7d145ace27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_80c73ae0f7e3bcf6e642532123b3c5a97ea7e416/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4df5bcf9135b91086ea58f0bb7784c89ac0fb4b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_d1ed6ffdbf62817c3f7436f61251ff66703472a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="868c6b7879b57ca30569f15b6e5b384a0f624b94">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e9d33285a686862129d8112e336835b12b15169d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_228d1fc9ea8bda29874be2ac606d9e7248765c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_997109b3737c75f2d5d2188bb591cdd5e827e565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_9fa7236fe87c38636572dbe2ad8e7e13938fbac0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_f2bd1ba4ffed996ce8b773791095e9ce2d3cbcdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e069ad6a8411c6107e301743c84c36e32bc77e6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_67c4e33b014147ea1a143a16dce403b2adbb9f0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_00f14fdb1c6642b7bbde587fd02b7ff838a7e2a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9d4455178fe50c4e1e3296e660ed65c0df141001/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_6ab00cc8c4b8139cb460bd37b28bca5a2bd9c1b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geemakunstorey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_f0653c8ed35cc6ba0200dc02c15e273ea3cac93d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_15dfe727ad3eb62ef17ee07b382ac70645134474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_867382f83258b22da9350576b2cdab99fcb3a65a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0d69dd989fac6c4b17492b505c9203e514605105">
+        <dex dex="/Applications/MAMP/htdocs/HSVColorPicker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e2002a7921a1d7f3e759ddf28d0766fda596454a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_135ba8e4eeb1d33919e62e7efb7563b7adadc8cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c19dc7da16e7abf2c1c8ddc1dbb7884f69446dc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e9321811eff9bffa8bee0e367c4103e5dc510ce9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_7584771009cbd61279710a169e4a73ccea168f30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="934715d2d07f00d7ab68a9f0c1edd7c01f15baf4">
+        <dex dex="/Applications/MAMP/htdocs/HSV-Color-Picker-MidTerm/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_313369fc1b23e5d1468eb70d2fa6f45bbceec970/classes.dex" />
+    </item>
+
+</items>
